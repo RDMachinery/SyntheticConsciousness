@@ -1,5 +1,6 @@
 NOTE: Before you read this understand that Igor is wrong. I tried all night to get it to work
-      but I am afraid that he just plain wrong. Bad luck, Igor.
+      but I am afraid that he just plain wrong. I abandoned the implementation as soon as I
+      realised that it just wasn't going to work. Bad luck, Igor.
 
 
 # Synthetic Consciousness - Igor Aleksander's Five Axioms Implementation
